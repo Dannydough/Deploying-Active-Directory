@@ -237,3 +237,11 @@ Log Out and Log In as jane_admin:
 <img src="https://imgur.com/BSRQojH.png" height="80%" width="80%" alt="Azure Networking Steps"/>
 </p>
 <p>
+
+
+<h2> Deployment in Active Directory Part 1 Completed </h2>
+
+*With the foundational setup complete, the Active Directory infrastructure is now fully operational. This phase included configuring the Domain Controller, establishing the mydomain.com domain, organizing resources with the creation of Organizational Units (_EMPLOYEES, _ADMINS), and setting up the administrative account (jane_admin) with appropriate permissions. These critical steps have laid the groundwork for effective directory management and further deployment, ensuring a robust and scalable environment for future IT operations.*
+
+</p>
+<br />
